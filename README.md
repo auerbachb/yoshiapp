@@ -1,2 +1,2 @@
 # yoshiapp
-API to find the nearest gas station
+API to find the nearest gas station.
